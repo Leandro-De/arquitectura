@@ -10,6 +10,7 @@ Utilizando Bootstrap, para crear un sitio de presentacion de servicios responsiv
 ## Vista Previa
 
 ![App Screenshot](https://i.imgur.com/rUniPdG.png)
+- [Ver la web funcional](https://epic-mirzakhani-ed5aae.netlify.app/)
 
   
 ## Autor
